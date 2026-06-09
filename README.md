@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anushan Dharmarathna</h1>
 <h6 align="center">Dedicated web developer with a knack for crafting responsive, visually appealing, and user-friendly digital experiences. Skilled in both frontend and backend technologies, I enjoy turning creative ideas into functional, impactful solutions. Passionate about staying ahead of web development trends, continuously learning, and pushing the boundaries of innovation. With a strong focus on collaboration and clean, maintainable code, I aim to deliver exceptional results that leave a lasting impression.</h6>
-<img align="right" alt="coding gif" width="300" src="https://media.licdn.com/dms/image/v2/D5622AQG25wZZR8ISMA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1721657503896?e=2147483647&v=beta&t=BEYcudUkOaCcBKaTY-A1XKQpOs91LEecfCldFJ_2dsc"/>
+<img align="right" alt="coding gif" width="300" src="https://camo.githubusercontent.com/884a213c0c6b6d94db3d3923607eda9f00fe28db86a03f5acb4c0ed83dfe4d95/68747470733a2f2f696d672e6574696d672e636f6d2f7468756d622f6d7369642d38343134363038332c77696474682d313031352c6865696768742d3736312c696d6773697a652d3633383035332c726573697a656d6f64652d382c7175616c6974792d3130302f7072696d652f746563686e6f6c6f67792d616e642d73746172747570732f626f6f74696e672d75702d646576656c6f7065722d65636f6e6f6d792d686f772d746563682d73746172747570732d6172652d68656c70696e672d636f646572732d6275696c642d616e642d746573742d736f6674776172652d6661737465722e6a7067"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushandharmarathna&label=Profile%20views&color=0e75b6&style=flat" alt="anushandharmarathna" /> </p>
 
@@ -22,3 +22,4 @@
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushandharmarathna&show_icons=true&locale=en&layout=compact" alt="anushandharmarathna" /></p>-->
 
+<img src="https://github.com/hith3sh/hith3sh/blob/output/github-contribution-grid-snake-dark.svg"/>
